@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 # =====================
 # CONFIG
 # =====================
-BOT_TOKEN = os.getenv("8901642018:AAGrilVLPkOlP-pu1ouGVEMlZ6NakD3es2Y")
+BOT_TOKEN = os.getenv(8901642018:AAGrilVLPkOlP-pu1ouGVEMlZ6NakD3es2Y)
 
 # Store chat IDs dynamically (no manual CHAT_ID needed)
 CHAT_IDS = set()
